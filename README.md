@@ -1,5 +1,5 @@
 # Ignite18
-Groups Governance Toolkit 
+PowerShell on Azure Functions Demo
 
 Demos for Ignite18 by atwork.at
 
